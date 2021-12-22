@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Author]
   name = "xdatanext"
   bio = "xdatanext's true identity is unknown. Nobody knows it."
-  avatar = "img/avatar.png"
+  avatar = "img/48460336.png"
 
 [Params]
   description = "xdatanext's about everything" # Description of your site
@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
-  image = "img/48460336.png"
+  #image = "img/48460336.png"
   title = "xdatanext"
   subtitle = "Just another site" # Logo subtitle
 
